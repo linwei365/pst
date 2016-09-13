@@ -16,6 +16,7 @@
 		65577BAC1D878DF900C4167D /* NSURLSessionBTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65577BAB1D878DF900C4167D /* NSURLSessionBTests.swift */; };
 		65577BB71D878DF900C4167D /* NSURLSessionBUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65577BB61D878DF900C4167D /* NSURLSessionBUITests.swift */; };
 		65577BC51D87909C00C4167D /* Channel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65577BC41D87909C00C4167D /* Channel.swift */; };
+		65577BC71D87911A00C4167D /* Video.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65577BC61D87911A00C4167D /* Video.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		65577BB61D878DF900C4167D /* NSURLSessionBUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NSURLSessionBUITests.swift; sourceTree = "<group>"; };
 		65577BB81D878DF900C4167D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		65577BC41D87909C00C4167D /* Channel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Channel.swift; sourceTree = "<group>"; };
+		65577BC61D87911A00C4167D /* Video.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Video.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				65577B931D878DF900C4167D /* AppDelegate.swift */,
 				65577B951D878DF900C4167D /* ViewController.swift */,
 				65577BC41D87909C00C4167D /* Channel.swift */,
+				65577BC61D87911A00C4167D /* Video.swift */,
 				65577B971D878DF900C4167D /* Main.storyboard */,
 				65577B9D1D878DF900C4167D /* Assets.xcassets */,
 				65577B9F1D878DF900C4167D /* LaunchScreen.storyboard */,
@@ -266,6 +269,7 @@
 				65577BC51D87909C00C4167D /* Channel.swift in Sources */,
 				65577B9C1D878DF900C4167D /* NSURLSessionB.xcdatamodeld in Sources */,
 				65577B941D878DF900C4167D /* AppDelegate.swift in Sources */,
+				65577BC71D87911A00C4167D /* Video.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
