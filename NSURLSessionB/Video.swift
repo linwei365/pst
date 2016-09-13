@@ -13,5 +13,7 @@ class Video: NSObject {
     var title:String?
     var thumbnailUrl: String?
     var channel:Channel?
+    var http:String?
+    
     
 }
